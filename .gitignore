@@ -1,0 +1,6 @@
+# Ignore the 'was' folder
+was/node_modules
+
+# Ignore the docker-compose.yml file
+docker-compose.yml
+
